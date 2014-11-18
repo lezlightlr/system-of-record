@@ -1,0 +1,2 @@
+datastore: python run_datastore_dev.py
+queue_consumer: python run_queue_consumer.py 
